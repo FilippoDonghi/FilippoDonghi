@@ -1,6 +1,6 @@
 # Hi, I'm Filippo
 
-Currently based in Amsterdam, I'm a Software Engineering and Green IT student at the both Vrije University and University of Amsterdam. I enjoy building projects and prototypes for fun, experimenting and university-courses projects.
+Currently based in Amsterdam, I'm a Software Engineering and Green IT student at both Vrije University and University of Amsterdam. I enjoy building projects and prototypes for fun, experimenting and university-courses projects.
 
 ## Selected work
 
