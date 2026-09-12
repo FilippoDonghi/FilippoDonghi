@@ -7,6 +7,16 @@ evaluate.
 
 ## Selected work
 
+### [Financial Services BI](https://github.com/FilippoDonghi/financial-services-bi)
+
+An individual university project analyzing financial time series and portfolio
+strategies in Python. The repository includes a tested package, an offline
+synthetic demo, a fresh-kernel notebook, and the original Italian report with
+transparent methodological corrections. Forecasts use chronological validation
+and a last-price baseline; historical findings are kept separate from demo results.
+
+`Python` · `pandas` · `statsmodels` · `Time series` · `Backtesting`
+
 ### [Wine&Dine](https://github.com/FilippoDonghi/WineDine)
 
 An Android team project for exploring wines, saving favourites, and discovering
