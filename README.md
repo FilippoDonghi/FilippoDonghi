@@ -10,10 +10,11 @@ evaluate.
 ### [Financial Services BI](https://github.com/FilippoDonghi/financial-services-bi)
 
 An individual university project analyzing financial time series and portfolio
-strategies in Python. The repository includes a tested package, an offline
-synthetic demo, a fresh-kernel notebook, and the original Italian report with
-transparent methodological corrections. Forecasts use chronological validation
-and a last-price baseline; historical findings are kept separate from demo results.
+strategies in Python. The repository preserves the full coursework notebook,
+its supplied dataset and the report in Italian and English. A separate tested
+package and synthetic demo introduce chronological validation and a last-price
+baseline. Historical methods, execution fixes and methodological corrections
+are clearly distinguished.
 
 `Python` · `pandas` · `statsmodels` · `Time series` · `Backtesting`
 
